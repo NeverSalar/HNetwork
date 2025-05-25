@@ -1,7 +1,7 @@
 HNetwork
 ================
 
-This GitHub repository implements the estimation and inference methods in the paper "Hyperbolic Network Latent Space Model
+This repository implements the estimation and inference methods in the paper "Hyperbolic Network Latent Space Model
 with Learnable Curvature". 
 
 ## Getting Started
